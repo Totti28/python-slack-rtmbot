@@ -19,5 +19,8 @@
     "drink": "@{} 開始喝東西。:beer::wine_glass::cocktail::tropical_drink::champagne::sake::tea::coffee::baby_bottle:",
     "下班": "@{} 下班了。:monkey_face::hear_no_evil::see_no_evil::speak_no_evil:",
     "help": "!friend [user]: 跟 [user] 交朋友\n!tarot: 抽塔羅牌\n!fight [user] [pokemon id]: 神奇寶貝決鬥"
+    "court": "@{} 加入了陪審團。:pow1:",
+    "confess": "@{} 認罪了。:c8:",
+    "noconfess": "@{}宣稱自己無罪！:wtf:"
 }
 
